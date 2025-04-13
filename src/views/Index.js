@@ -176,7 +176,7 @@ const Index = (props) => {
                 <tbody>
                   <tr>
 
-                    <th scope="row">Payoshnee</th>
+                    <th scope="row">Harshit</th>
                     <td>200</td>
                     <td>1</td>
                     <td>
